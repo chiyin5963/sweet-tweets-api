@@ -38,7 +38,7 @@ namespace sweet_tweets_api.Repository
                 new Tweet() { message = "Everyone knows that I am right that Robert Pattinson should dump Kristen Stewart. In a couple of years, he will thank me. Be smart, Robert.", author = "Donald Trump"},
                 new Tweet() { message = "I put the art in fart", author = "Elon Musk"},
                 new Tweet() { message = "420 is ten times better than 42", author = "Elon Musk"},
-                new Tweet() { message = "Sick of having to go to 2 different huts to buy pizza & sunglasses.", author = "Elon Musk"},
+                new Tweet() { message = "Sick of having to go to 2 different huts to buy pizza & sunglasses.", author = "blake"},
                 new Tweet() { message = "last night i had cereal with milk for the first time. life changing.", author = "Kylie Jenner"},
                 new Tweet() { message = "Rocks, paper, siccor.......", author = "Ryan Lochte"},
                 new Tweet() { message = "I'm watching the History channel in the club and I'm wondering how do these people kno what's going on then sun..ain't nobody ever been", author = "Kevin Durant"},
