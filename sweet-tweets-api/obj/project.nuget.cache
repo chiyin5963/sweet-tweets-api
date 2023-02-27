@@ -1,14 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "qo2F3EPROxTIrBrq19NzXF3qlCw41EeQkj31pmIFFjNM6h11ozc+7ftjL4dNHrNFEwgcWNa0KOmQhzqLAjH/Sg==",
+  "dgSpecHash": "26vDwltaQdqt57ZT5t0X8FQ4bO8OKJDrz6DbE5zpxwp+uum0IuidPPBF+bCnjhVrMIL2bDsP1KrUlW6NUG9wbg==",
   "success": true,
   "projectFilePath": "C:\\Users\\trist\\source\\repos\\sweet-tweets-api\\sweet-tweets-api\\sweet-tweets-api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\trist\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.6.0\\amazon.lambda.apigatewayevents.2.6.0.nupkg.sha512",
     "C:\\Users\\trist\\.nuget\\packages\\amazon.lambda.applicationloadbalancerevents\\2.1.0\\amazon.lambda.applicationloadbalancerevents.2.1.0.nupkg.sha512",
     "C:\\Users\\trist\\.nuget\\packages\\amazon.lambda.aspnetcoreserver\\8.0.0\\amazon.lambda.aspnetcoreserver.8.0.0.nupkg.sha512",
+    "C:\\Users\\trist\\.nuget\\packages\\amazon.lambda.aspnetcoreserver.hosting\\1.5.0\\amazon.lambda.aspnetcoreserver.hosting.1.5.0.nupkg.sha512",
     "C:\\Users\\trist\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
     "C:\\Users\\trist\\.nuget\\packages\\amazon.lambda.logging.aspnetcore\\3.1.0\\amazon.lambda.logging.aspnetcore.3.1.0.nupkg.sha512",
+    "C:\\Users\\trist\\.nuget\\packages\\amazon.lambda.runtimesupport\\1.8.2\\amazon.lambda.runtimesupport.1.8.2.nupkg.sha512",
     "C:\\Users\\trist\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.1\\amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
     "C:\\Users\\trist\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\trist\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.0\\microsoft.extensions.configuration.2.1.0.nupkg.sha512",
@@ -25,7 +27,8 @@
     "C:\\Users\\trist\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
     "C:\\Users\\trist\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
     "C:\\Users\\trist\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
-    "C:\\Users\\trist\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+    "C:\\Users\\trist\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\trist\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.14\\microsoft.netcore.app.host.linux-x64.6.0.14.nupkg.sha512"
   ],
   "logs": []
 }

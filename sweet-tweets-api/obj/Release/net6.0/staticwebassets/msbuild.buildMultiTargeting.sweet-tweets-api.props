@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\sweet-tweets-api.props" />
+</Project>

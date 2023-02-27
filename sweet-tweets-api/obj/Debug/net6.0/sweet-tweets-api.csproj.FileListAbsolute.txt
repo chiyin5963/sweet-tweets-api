@@ -36,3 +36,5 @@ C:\Users\trist\source\repos\sweet-tweets-api\sweet-tweets-api\obj\Debug\net6.0\r
 C:\Users\trist\source\repos\sweet-tweets-api\sweet-tweets-api\obj\Debug\net6.0\sweet-tweets-api.pdb
 C:\Users\trist\source\repos\sweet-tweets-api\sweet-tweets-api\obj\Debug\net6.0\sweet-tweets-api.genruntimeconfig.cache
 C:\Users\trist\source\repos\sweet-tweets-api\sweet-tweets-api\obj\Debug\net6.0\ref\sweet-tweets-api.dll
+C:\Users\trist\source\repos\sweet-tweets-api\sweet-tweets-api\bin\Debug\net6.0\Amazon.Lambda.AspNetCoreServer.Hosting.dll
+C:\Users\trist\source\repos\sweet-tweets-api\sweet-tweets-api\bin\Debug\net6.0\Amazon.Lambda.RuntimeSupport.dll
