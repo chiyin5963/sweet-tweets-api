@@ -1,6 +1,6 @@
 
 {
-    "region" : "us-west-1",
+    "region" : "us-west-2",
     "profile" : "vsIDE",
     "configuration" : "Release",
     "framework"     : "net6.0",
@@ -16,5 +16,6 @@
     "function-security-groups" : "",
     "tracing-mode"             : "PassThrough",
     "environment-variables"    : "",
-    "image-tag"                : ""
+    "image-tag"                : "",
+    "function-description"     : ""
 }

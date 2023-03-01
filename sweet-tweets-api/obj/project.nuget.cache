@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xgVTGnRqd20+vENhxHFMYmilg3NE64OjQXUjXapawa6Li/wf/PCR8Ipf0u415GVKDi05ZK0N4kgWZ/3E2IacOg==",
+  "dgSpecHash": "GQ6erzIwi5U2I5DsqyU4lOPBut35d/Yh5QsnLFLfICvhrY0qyy/sfpJUIaE5B8PWHrq7eGU5WfcoEwqnU9Rv9Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\trist\\source\\repos\\sweet-tweets-api\\sweet-tweets-api\\sweet-tweets-api.csproj",
   "expectedPackageFiles": [
@@ -36,7 +36,8 @@
     "C:\\Users\\trist\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512",
     "C:\\Users\\trist\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
     "C:\\Users\\trist\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
-    "C:\\Users\\trist\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+    "C:\\Users\\trist\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
+    "C:\\Users\\trist\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.14\\microsoft.netcore.app.host.linux-x64.6.0.14.nupkg.sha512"
   ],
   "logs": []
 }
